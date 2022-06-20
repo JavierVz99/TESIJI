@@ -1,0 +1,24 @@
+.contar{
+    background-image: url('../img/bout.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+p.resum {
+    width: 500px;
+}
+img.perfil {
+    width: 200px;
+    border: 2px solid;
+    border-radius: 60%;
+    box-shadow: 0 0 10px #2e2e2e;
+}
+figcaption{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    
+}
